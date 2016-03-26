@@ -10,11 +10,11 @@
 + Notifications
 
 ## Web User Interface Features
-[ ] user interface
-[ ] sign up with phone number
-[ ] search for albums
-[ ] add ‘get notified’ on specific albums
-[ ] ‘remove notifications'
-[ ] ability to end notifications
++ [ ] user interface
++ [ ] sign up with phone number
++ [ ] search for albums
++ [ ] add ‘get notified’ on specific albums
++ [ ] ‘remove notifications'
++ [ ] ability to end notifications
 
 ## Text Interface Features
